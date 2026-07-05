@@ -1,16 +1,550 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**OptimisticPanda2/OptimisticPanda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Priyanshu Sharma
 
-Here are some ideas to get you started:
+### 🚀 Java Backend Developer | Spring Boot Developer | REST API Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Secure+REST+APIs;Learning+Microservices+%7C+Docker+%7C+AWS;Always+Building+Something+Awesome..." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=OptimisticPanda2&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://github.com/OptimisticPanda2">
+<img src="https://img.shields.io/github/followers/OptimisticPanda2?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/OptimisticPanda2?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-blue?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+
+public class PriyanshuSharma {
+
+    String role = "Java Backend Developer";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "JPA",
+        "REST APIs",
+        "JWT",
+        "MySQL"
+    };
+
+    String currentProject =
+        "SCRYP - Freelancing Marketplace";
+
+    String learning = "Microservices • Docker • AWS";
+
+    String motto =
+        "Write Clean Code. Build Secure APIs. Solve Real Problems.";
+}
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Java Backend Developer passionate about scalable backend systems.
+
+- 🚀 Building production-style applications using **Spring Boot**.
+
+- 🔐 Strong focus on Authentication & Authorization.
+
+- ⚡ Love designing clean REST APIs.
+
+- 🏗️ Interested in scalable backend architecture.
+
+- 🌱 Currently learning
+
+  - Docker
+
+  - AWS
+
+  - Microservices
+
+- 💬 Ask me about
+
+  - Java
+
+  - Spring Boot
+
+  - Spring Security
+
+  - Hibernate
+
+  - JWT Authentication
+
+  - REST APIs
+
+---
+
+# 🚀 Current Focus
+
+### SCRYP — Freelancing Marketplace
+
+Currently building a complete Freelancer–Client Marketplace where
+
+✅ Freelancers create Gigs
+
+✅ Clients hire Freelancers
+
+✅ JWT Authentication
+
+✅ Spring Security
+
+✅ REST APIs
+
+✅ Hibernate
+
+✅ MySQL
+
+Future Modules
+
+- 💳 Payments
+
+- 💬 Real-time Chat
+
+- ⭐ Ratings & Reviews
+
+- 📁 Portfolio Management
+
+- 📈 Dashboard & Analytics
+
+---
+
+# 💼 Experience
+
+## Full Stack Web Developer & SEO Specialist
+
+### Login Computer
+
+**May 2026 – Present**
+
+### Responsibilities
+
+✔ Developed a premium business website.
+
+✔ Built responsive Glassmorphism UI.
+
+✔ Achieved 95+ Lighthouse Score.
+
+✔ Ranked website #3 on Google Search.
+
+✔ Implemented Local Business SEO.
+
+✔ Integrated WhatsApp Customer System.
+
+✔ Building Digital Printing Portal for 5000+ users.
+
+🌐 Website
+
+https://logincomputer.in
+
+---
+
+# 🎯 What I Do
+
+```text
+💻 Build Secure REST APIs
+
+🔐 JWT Authentication
+
+🏗 Layered Architecture
+
+🛢 Database Design
+
+⚡ CRUD Applications
+
+🌐 Frontend Integration
+
+📦 Git Version Control
+
+🚀 Deployment Ready Projects
+```
+
+---
+
+# 🌱 Currently Learning
+
+| Technology | Progress |
+|------------|-----------|
+| Docker | ███████░░░ 70% |
+| AWS | ██████░░░░ 60% |
+| Microservices | █████░░░░░ 50% |
+| Kubernetes | ███░░░░░░░ 30% |
+
+---
+
+# ⚡ Fun Fact
+
+# 🚀 Featured Projects
+
+---
+
+## 🌟 SCRYP — Freelancing Marketplace
+
+> **A modern Freelancer–Client Marketplace inspired by Fiverr & Upwork.**
+
+### 🚀 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+</p>
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 👥 Role Based Access Control
+- 💼 Freelancer Dashboard
+- 🛒 Gig Management
+- 🔍 Smart Search
+- ❤️ Wishlist
+- 📦 Orders
+- ⭐ Reviews
+- 📁 Portfolio
+- 📊 Admin Dashboard
+
+### 📈 Backend Highlights
+
+✔ 25+ REST APIs
+
+✔ Spring Security
+
+✔ Hibernate One-To-Many Mapping
+
+✔ DTO Architecture
+
+✔ Validation
+
+✔ Exception Handling
+
+✔ Pagination
+
+✔ Secure API Design
+
+✔ Layered Architecture
+
+✔ Client-Server Architecture
+
+---
+
+## 🌐 Login Computer
+
+> **Premium Business Website + SEO Optimized Platform**
+
+### Tech Used
+
+HTML5 • CSS3 • JavaScript • Tailwind CSS • SEO • Vercel
+
+### Achievements
+
+🚀 95+ Lighthouse Performance
+
+📈 Ranked #3 on Google Search
+
+📱 Fully Responsive UI
+
+📞 WhatsApp Integration
+
+🔍 Local Business Schema
+
+⚡ Fast Loading Pages
+
+📄 Digital Printing Portal (In Progress)
+
+🌍 Website
+
+https://logincomputer.in
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
+
+</p>
+
+---
+
+## 🛢 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse"/>
+
+</p>
+
+---
+
+# ⚡ Development Workflow
+
+```text
+Requirement Analysis
+        │
+        ▼
+Database Design
+        │
+        ▼
+Spring Boot Development
+        │
+        ▼
+REST API Development
+        │
+        ▼
+JWT Authentication
+        │
+        ▼
+Frontend Integration
+        │
+        ▼
+Testing using Postman
+        │
+        ▼
+Git Version Control
+        │
+        ▼
+Deployment
+```
+
+---
+
+# 🎯 Areas of Interest
+
+✅ Backend Development
+
+✅ Full Stack Development
+
+✅ REST API Design
+
+✅ Authentication & Authorization
+
+✅ Database Design
+
+✅ Secure Web Applications
+
+✅ Clean Architecture
+
+✅ Scalable Backend Systems
+
+---
+
+# 📚 Currently Exploring
+
+🐳 Docker
+
+☁ AWS
+
+⚙ Microservices
+
+☸ Kubernetes
+
+🚀 CI/CD Pipelines
+
+---
+> **I enjoy transforming ideas into scalable backend systems that are secure, maintainable, and production-ready.**
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OptimisticPanda2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptimisticPanda2&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=OptimisticPanda2&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OptimisticPanda2&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OptimisticPanda2&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Build Enterprise Applications
+- ✅ Learn Microservices
+- ✅ Docker & Kubernetes
+- ✅ AWS Cloud
+- ✅ CI/CD Pipelines
+- ✅ Open Source Contributions
+- ✅ Crack a Product-Based Company
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/priyanshu-ps47-sharma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:priyanshu.sre47016@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OptimisticPanda2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/OptimisticPanda2/OptimisticPanda2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+> **Note:** Snake animation works after adding a GitHub Actions workflow.
+
+---
+
+# 💡 Developer Philosophy
+
+```java
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Debug();
+
+    Improve();
+
+    Repeat();
+}
+```
+
+---
+
+# ☕ Support My Work
+
+If you like my work and projects, don't forget to ⭐ my repositories.
+
+It motivates me to build more amazing open-source projects.
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile ❤️
+
+### Let's Build Something Awesome Together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+
+</div>
+
+---
