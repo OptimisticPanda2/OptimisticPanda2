@@ -128,7 +128,7 @@ https://logincomputer.in
 
 # 🎯 What I Do
 
-```text
+
 💻 Build Secure REST APIs
 
 🔐 JWT Authentication
@@ -159,7 +159,6 @@ https://logincomputer.in
 
 ---
 
-# ⚡ Fun Fact
 
 # 🚀 Featured Projects
 
