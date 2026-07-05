@@ -22,32 +22,7 @@
 
 ---
 
-# 💫 About Me
 
-
-public class PriyanshuSharma {
-
-    String role = "Java Backend Developer";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "Hibernate",
-        "JPA",
-        "REST APIs",
-        "JWT",
-        "MySQL"
-    };
-
-    String currentProject =
-        "SCRYP - Freelancing Marketplace";
-
-    String learning = "Microservices • Docker • AWS";
-
-    String motto =
-        "Write Clean Code. Build Secure APIs. Solve Real Problems.";
-}
 
 ---
 
