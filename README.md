@@ -28,37 +28,23 @@
 
 # 👨‍💻 About Me
 
-- 💻 Java Backend Developer passionate about scalable backend systems.
+## 👋 Hi, I'm Priyanshu Sharma
+**Java Backend Developer | Spring Boot Ecosystem Practitioner | REST API Architect**
 
-- 🚀 Building production-style applications using **Spring Boot**.
+I am an engineering-focused professional specializing in structural server-side backend programming. Having recently wrapped up my Master of Computer Applications (MCA) academic journey, I am fully available and transition-ready to join production-grade development teams across India.
 
-- 🔐 Strong focus on Authentication & Authorization.
+- ⚙️ **Core Focus**: Designing stateless authorization engines, relational schema normalization, and distributed ledger APIs.
+- 🚀 **Architectural Approach**: Heavy adherence to OOP principles, Clean Code patterns, and strict Data Transfer Object (DTO) modular mappings.
+- 📦 **Infrastructure Integration**: Actively containerizing modular application topologies using Docker and deploying cloud configurations on AWS environments.
 
-- ⚡ Love designing clean REST APIs.
 
-- 🏗️ Interested in scalable backend architecture.
+### 🛠️ Technical Capabilities & Infrastructure Stack
 
-- 🌱 Currently learning
-
-  - Docker
-
-  - AWS
-
-  - Microservices
-
-- 💬 Ask me about
-
-  - Java
-
-  - Spring Boot
-
-  - Spring Security
-
-  - Hibernate
-
-  - JWT Authentication
-
-  - REST APIs
+- **Languages & Core**: Java (17/21), Advanced Java, SQL, C++, Object-Oriented Design (OOD)
+- **Framework Ecosystem**: Spring Boot, Spring Framework Core, Spring Security, Spring Cloud Discovery
+- **Data Tier & Caching**: Hibernate JPA, JDBC Middleware, MySQL Engine, PostgreSQL Database, Redis Caching
+- **API Architecture**: RESTful Web Services, Stateless JWT Systems, OAuth2 Integration, Postman Automated Ingestion
+- **DevOps Ecosystem**: Docker Containerization, Git & GitHub Ecosystem, Maven Lifecycle Automation, CI/CD Engine Architectures
 
 ---
 
@@ -425,16 +411,12 @@ Deployment
 
 ---
 
-# 🚀 2026 Goals
+### 🎯 Active Engineering Goals for 2026
+- [ ] Implement High-Throughput Event Streaming Brokers using **Apache Kafka**.
+- [ ] Migrate standalone monoliths into highly available **Spring Cloud Microservices Platforms**.
+- [ ] Design non-blocking reactive pipelines using **Spring WebFlux**.
+- [ ] Orchestrate production-style scalable network matrices using **Kubernetes (K8s)**.
 
-- ✅ Master Spring Boot
-- ✅ Build Enterprise Applications
-- ✅ Learn Microservices
-- ✅ Docker & Kubernetes
-- ✅ AWS Cloud
-- ✅ CI/CD Pipelines
-- ✅ Open Source Contributions
-- ✅ Crack a Product-Based Company
 
 ---
 
