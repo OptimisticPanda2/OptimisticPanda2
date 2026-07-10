@@ -22,10 +22,6 @@
 
 ---
 
-
-
----
-
 # 👨‍💻 About Me
 
 **Java Backend Developer | Spring Boot Ecosystem Practitioner | REST API Architect**
