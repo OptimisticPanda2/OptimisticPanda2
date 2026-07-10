@@ -28,7 +28,6 @@
 
 # 👨‍💻 About Me
 
-## 👋 Hi, I'm Priyanshu Sharma
 **Java Backend Developer | Spring Boot Ecosystem Practitioner | REST API Architect**
 
 I am an engineering-focused professional specializing in structural server-side backend programming. Having recently wrapped up my Master of Computer Applications (MCA) academic journey, I am fully available and transition-ready to join production-grade development teams across India.
