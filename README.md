@@ -8,13 +8,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=OptimisticPanda2&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=priyanshu-backend-dev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<a href="https://github.com/OptimisticPanda2">
-<img src="https://img.shields.io/github/followers/OptimisticPanda2?label=Followers&style=for-the-badge&logo=github"/>
+<a href="https://github.com/priyanshu-backend-dev">
+<img src="https://img.shields.io/github/followers/priyanshu-backend-dev?label=Followers&style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/OptimisticPanda2?tab=repositories">
+<a href="https://github.com/priyanshu-backend-dev?tab=repositories">
 <img src="https://img.shields.io/badge/Public%20Repositories-View-blue?style=for-the-badge&logo=github"/>
 </a>
 
@@ -368,9 +368,11 @@ Deployment
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OptimisticPanda2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-backend-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptimisticPanda2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-backend-dev
+        
+        &layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -380,7 +382,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=OptimisticPanda2&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=priyanshu-backend-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -390,7 +392,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OptimisticPanda2&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-backend-dev&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -400,7 +402,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OptimisticPanda2&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu-backend-dev&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -427,7 +429,7 @@ Deployment
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/OptimisticPanda2">
+<a href="https://github.com/priyanshu-backend-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -453,7 +455,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OptimisticPanda2/OptimisticPanda2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/priyanshu-backend-dev/priyanshu-backend-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
